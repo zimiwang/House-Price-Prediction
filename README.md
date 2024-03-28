@@ -46,3 +46,13 @@ The project sets the stage for further exploration into more advanced models and
 ## License
 
 This project is made available under the MIT License.
+
+## Project Team
+
+**Ziming Wang**
+- Role: Coordination of research efforts and primary development of the model Implementation (Clustering).
+- Affiliation: Graduate Student, University of Utah
+
+**Cheng Zhen**
+- Role: Coordination of research efforts and primary development of the model Implementation (Regression).
+- Affiliation: Undergraduate Student, University of Utah
