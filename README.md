@@ -46,7 +46,3 @@ The project sets the stage for further exploration into more advanced models and
 ## License
 
 This project is made available under the MIT License.
-
-## Acknowledgments
-
-Special thanks to the contributors of the Ames Housing and "CNN/DailyMail" datasets for providing rich datasets for educational and research purposes. Gratitude is also extended to all those who provided feedback and guidance throughout the project.
